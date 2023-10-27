@@ -1,0 +1,562 @@
+[
+          {
+              "partitionKey": "WOW#9000000123456",
+              "sortKey": "#APPO#2WbmJK1MEhQ3I6B69iWP9Rg4adn",
+              "appointmentId": "#APPO#2WbmJK4GIhQ3X6B99iWP9Rg4adj",
+              "categoryId": "#SRIFS-APPT#SRONS-HAT#2",
+              "categoryName": "Playgroup",
+              "clientDetails": [
+                  {
+                      "payLater": true,
+                      "clientParentId": "#CLIENT#222",
+                      "clientChildId": "#PET#2RkE03xU2SSYJBy1FKlHh4GSF45",
+                      "creditAvailable": 0,
+                      "clientParentName": "John",
+                      "clientChildName": "Jack03",
+                      "clientChildProfile": "https://encrypted-tbn0.gstatic.com/images?q=tbn: ANd9GcQkCFvNt8NMeobg5oxu0NvtYQy1bpXV-jY0aw&usqp=CAU",
+                      "clientChildBirthDate": "01-01-1990",
+                      "clientEmailId": "johndoe@example.com"
+                  }
+              ],
+              "createdAt": "2023-16-09 06:16:08 GMT+5:30",
+              "createdBy": "Aidan Robles",
+              "franchiseeId": "ERA#14523",
+              "fromDate": "2023-01-14 11:01:55 GMT+5:30",
+              "locationId": "HOG#9000000123456",
+              "maximumCapacity": 7,
+              "maximumWaitngListCapacity": "0",
+              "occurrence": {
+                  "freq": "noRepeat",
+                  "dtstart": "10-24-2023, 10:30AM",
+                  "until": "10-24-2023, 11:00AM"
+              },
+              "repeat": "daily",
+              "room": {
+                  "name": "LocationRoom1",
+                  "roomLimit": 5
+              },
+              "scheduleType": "appointment",
+              "serviceId": "#SREJS#",
+              "serviceName": "Puppy Training+ (4-8 mo)",
+              "trainerAvailability": [
+                  {
+                      "day": "Monday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  },
+                  {
+                      "day": "tuesday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  }
+              ],
+              "trainerId": "#USTR#2WqtNePMgnoejAPz0JnUIsA50Oo",
+              "trainerName": "Cassandra Harris",
+              "trainerSlots": 19,
+              "updatedAt": "2023-01-25 08:01:33 GMT+5:30"
+          },
+          {
+              "partitionKey": "LOX#9000000123456",
+              "sortKey": "#APPO#2WbmJK1BOhQ3L6B44iWP9Rg4ade",
+              "appointmentId": "#APPO#2WbmJK4JAhQ3L6B33iWP9Rg4adf",
+              "categoryId": "#SRUWS-APPT#SRENS-YAT#2",
+              "categoryName": "Parties",
+              "clientDetails": [
+                  {
+                      "payLater": true,
+                      "clientParentId": "#CLIENT#111",
+                      "clientChildId": "#PET#2RkE03xU2SSYJBy1FKlHh4GSF46",
+                      "creditAvailable": 0,
+                      "clientParentName": "Smith",
+                      "clientChildName": "Jack03",
+                      "clientChildProfile": "https://encrypted-tbn0.gstatic.com/images?q=tbn: ANd9GcQkCFvNt8NMeobg5oxu0NvtYQy1bpXV-jY0aw&usqp=CAU",
+                      "clientChildBirthDate": "01-01-1990",
+                      "clientEmailId": "smithdoe@example.com"
+                  }
+              ],
+              "createdAt": "2024-58-09 11:58:00 GMT+5:30",
+              "createdBy": "Steven Hess",
+              "franchiseeId": "ARA#14523",
+              "fromDate": "2024-37-06 08:37:31 GMT+5:30",
+              "locationId": "JOL#9000000123456",
+              "maximumCapacity": 6,
+              "maximumWaitngListCapacity": 5,
+              "occurrence": {
+                  "freq": "noRepeat",
+                  "dtstart": "09-26-2023, 10:30AM",
+                  "until": "09-26-2023, 11:00AM"
+              },
+              "repeat": "daily",
+              "room": {
+                  "name": "LocationRoom3",
+                  "roomLimit": 3
+              },
+              "scheduleType": "appointment",
+              "serviceId": "#SRUYS#",
+              "serviceName": "Advanced Agility",
+              "trainerAvailability": [
+                  {
+                      "day": "Monday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  },
+                  {
+                      "day": "tuesday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  }
+              ],
+              "trainerId": "#USdR#2WqFNePMsnoejAPzAJKEOsA50Oo",
+              "trainerName": "Phelan Martin",
+              "trainerSlots": 7,
+              "updatedAt": "2023-03-25 05:03:29 GMT+5:30"
+          },
+          {
+              "partitionKey": "TOT#9000000123456",
+              "sortKey": "#APPO#2WbmJK4NAhQ3K6B4BiWP9Rg4add",
+              "appointmentId": "#APPO#2WbmJK6VEhQ3l6B60iWP9Rg4adn",
+              "categoryId": "#SRUYS-APPT#SREFS-JAT#2",
+              "categoryName": "Lobby",
+              "clientDetails": [
+                  {
+                      "payLater": true,
+                      "clientParentId": "#CLIENT#222",
+                      "clientChildId": "#PET#2RkE03xU2SSYJBy1FKlHh4GSF45",
+                      "creditAvailable": 0,
+                      "clientParentName": "John",
+                      "clientChildName": "Jack03",
+                      "clientChildProfile": "https://encrypted-tbn0.gstatic.com/images?q=tbn: ANd9GcQkCFvNt8NMeobg5oxu0NvtYQy1bpXV-jY0aw&usqp=CAU",
+                      "clientChildBirthDate": "01-01-1990",
+                      "clientEmailId": "johndoe@example.com"
+                  }
+              ],
+              "createdAt": "2023-42-03 11:42:57 GMT+5:30",
+              "createdBy": "Madeson Williamson",
+              "franchiseeId": "uRA#14523",
+              "fromDate": "2023-09-02 10:09:23 GMT+5:30",
+              "locationId": "NOG#9000000123456",
+              "maximumCapacity": 10,
+              "maximumWaitngListCapacity": 5,
+              "occurrence": {
+                  "freq": "noRepeat",
+                  "dtstart": "10-15-2023, 10:30AM",
+                  "until": "10-15-2023, 11:00AM"
+              },
+              "repeat": "daily",
+              "room": {
+                  "name": "LocationRoom3",
+                  "roomLimit": 3
+              },
+              "scheduleType": "appointment",
+              "serviceId": "#SROCS#",
+              "serviceName": "Agility",
+              "trainerAvailability": [
+                  {
+                      "day": "Monday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  },
+                  {
+                      "day": "tuesday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  }
+              ],
+              "trainerId": "#USFR#2WqKNePMQnoejAPz2JbUEsA50Oo",
+              "trainerName": "Orlando Campbell",
+              "trainerSlots": 17,
+              "updatedAt": "2023-31-25 08:31:54 GMT+5:30"
+          },
+          {
+              "partitionKey": "JON#9000000123456",
+              "sortKey": "#APPO#2WbmJK6KIhQ3z6B35iWP9Rg4adx",
+              "appointmentId": "#APPO#2WbmJK0OIhQ3S6B99iWP9Rg4adp",
+              "categoryId": "#SREFS-APPT#SREZS-LAT#2",
+              "categoryName": "Orientation",
+              "clientDetails": [
+                  {
+                      "payLater": true,
+                      "clientParentId": "#CLIENT#456",
+                      "clientChildId": "#PET#2RkE03xU2SSYJBy1FKlHh4GSF54",
+                      "creditAvailable": 0,
+                      "clientParentName": "Sharmin",
+                      "clientChildName": "Jack03",
+                      "clientChildProfile": "https://encrypted-tbn0.gstatic.com/images?q=tbn: ANd9GcQkCFvNt8NMeobg5oxu0NvtYQy1bpXV-jY0aw&usqp=CAU",
+                      "clientChildBirthDate": "01-01-1990",
+                      "clientEmailId": "sharminWdoe@example.com"
+                  }
+              ],
+              "createdAt": "2024-45-01 06:45:35 GMT+5:30",
+              "createdBy": "Hannah Olson",
+              "franchiseeId": "IRA#14523",
+              "fromDate": "2022-02-22 04:02:01 GMT+5:30",
+              "locationId": "TOG#9000000123456",
+              "maximumCapacity": 8,
+              "maximumWaitngListCapacity": 3,
+              "occurrence": {
+                  "freq": "noRepeat",
+                  "dtstart": "09-26-2023, 10:30AM",
+                  "until": "09-26-2023, 11:00AM"
+              },
+              "repeat": "daily",
+              "room": {
+                  "name": "LocationRoom5",
+                  "roomLimit": 6
+              },
+              "scheduleType": "appointment",
+              "serviceId": "#SROMS#",
+              "serviceName": "Puppy Training+ (4-8 mo)",
+              "trainerAvailability": [
+                  {
+                      "day": "Monday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  },
+                  {
+                      "day": "tuesday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  }
+              ],
+              "trainerId": "#USLR#2WqYNePMPnoejAPz1JYiEsA50Oo",
+              "trainerName": "Evelyn Porter",
+              "trainerSlots": 3,
+              "updatedAt": "2023-07-25 02:07:59 GMT+5:30"
+          },
+          {
+              "partitionKey": "JOH#9000000123456",
+              "sortKey": "#APPO#2WbmJK4GIhQ3v6B91iWP9Rg4adt",
+              "appointmentId": "#APPO#2WbmJK3YUhQ3w6B98iWP9Rg4adb",
+              "categoryId": "#SRIKS-APPT#SROMS-TAT#2",
+              "categoryName": "Evaluation",
+              "clientDetails": [
+                  {
+                      "payLater": true,
+                      "clientParentId": "#CLIENT#222",
+                      "clientChildId": "#PET#2RkE03xU2SSYJBy1FKlHh4GSF45",
+                      "creditAvailable": 0,
+                      "clientParentName": "John",
+                      "clientChildName": "Jack03",
+                      "clientChildProfile": "https://encrypted-tbn0.gstatic.com/images?q=tbn: ANd9GcQkCFvNt8NMeobg5oxu0NvtYQy1bpXV-jY0aw&usqp=CAU",
+                      "clientChildBirthDate": "01-01-1990",
+                      "clientEmailId": "johndoe@example.com"
+                  }
+              ],
+              "createdAt": "2023-33-15 07:33:32 GMT+5:30",
+              "createdBy": "Ayanna Farmer",
+              "franchiseeId": "IRA#14523",
+              "fromDate": "2024-00-13 03:00:18 GMT+5:30",
+              "locationId": "UOW#9000000123456",
+              "maximumCapacity": 2,
+              "maximumWaitngListCapacity": 9,
+              "occurrence": {
+                  "freq": "noRepeat",
+                  "dtstart": "10-24-2023, 10:30AM",
+                  "until": "10-24-2023, 11:00AM"
+              },
+              "repeat": "daily",
+              "room": {
+                  "name": "LocationRoom4",
+                  "roomLimit": 4
+              },
+              "scheduleType": "appointment",
+              "serviceId": "#SRIFS#",
+              "serviceName": "Advanced Obediance",
+              "trainerAvailability": [
+                  {
+                      "day": "Tuesday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  },
+                  {
+                      "day": "Wednesday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  }
+              ],
+              "trainerId": "#USKR#2WqjNePMknoejAPzCJlIEsA50Oo",
+              "trainerName": "Amery Alvarez",
+              "trainerSlots": 17,
+              "updatedAt": "2023-57-25 08:57:31 GMT+5:30"
+          },
+          {
+              "partitionKey": "WOM#9000000123456",
+              "sortKey": "#APPO#2WbmJK6GUhQ3T6B43iWP9Rg4adk",
+              "appointmentId": "#APPO#2WbmJK8COhQ3m6B98iWP9Rg4adk",
+              "categoryId": "#SREJS-APPT#SRIFS-FAT#2",
+              "categoryName": "Private Gym",
+              "clientDetails": [
+                  {
+                      "payLater": true,
+                      "clientParentId": "#CLIENT#222",
+                      "clientChildId": "#PET#2RkE03xU2SSYJBy1FKlHh4GSF45",
+                      "creditAvailable": 0,
+                      "clientParentName": "John",
+                      "clientChildName": "Jack03",
+                      "clientChildProfile": "https://encrypted-tbn0.gstatic.com/images?q=tbn: ANd9GcQkCFvNt8NMeobg5oxu0NvtYQy1bpXV-jY0aw&usqp=CAU",
+                      "clientChildBirthDate": "01-01-1990",
+                      "clientEmailId": "johndoe@example.com"
+                  }
+              ],
+              "createdAt": "2024-20-15 04:20:51 GMT+5:30",
+              "createdBy": "Margaret Short",
+              "franchiseeId": "IRA#14523",
+              "fromDate": "2023-36-24 09:36:25 GMT+5:30",
+              "locationId": "IOZ#9000000123456",
+              "maximumCapacity": 5,
+              "maximumWaitngListCapacity": 2,
+              "occurrence": {
+                  "freq": "noRepeat",
+                  "dtstart": "10-24-2023, 10:30AM",
+                  "until": "10-24-2023, 11:00AM"
+              },
+              "repeat": "daily",
+              "room": {
+                  "name": "LocationRoom1",
+                  "roomLimit": 5
+              },
+              "scheduleType": "appointment",
+              "serviceId": "#SRIKS#",
+              "serviceName": "Obedience",
+              "trainerAvailability": [
+                  {
+                      "day": "Monday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  },
+                  {
+                      "day": "tuesday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  }
+              ],
+              "trainerId": "#USXR#2WqvNePMVnoejAPz0JLeIsA50Oo",
+              "trainerName": "Wade Wheeler",
+              "trainerSlots": 7,
+              "updatedAt": "2023-09-25 12:09:15 GMT+5:30"
+          },
+          {
+              "partitionKey": "YON#9000000123456",
+              "sortKey": "#APPO#2WbmJK8CEhQ3C6B2BiWP9Rg4ady",
+              "appointmentId": "#APPO#2WbmJK8GIhQ3k6B4EiWP9Rg4ads",
+              "categoryId": "#SRENS-APPT#SRIRS-WAT#2",
+              "categoryName": "Evaluation",
+              "clientDetails": [
+                  {
+                      "payLater": true,
+                      "clientParentId": "#CLIENT#111",
+                      "clientChildId": "#PET#2RkE03xU2SSYJBy1FKlHh4GSF46",
+                      "creditAvailable": 0,
+                      "clientParentName": "Smith",
+                      "clientChildName": "Jack03",
+                      "clientChildProfile": "https://encrypted-tbn0.gstatic.com/images?q=tbn: ANd9GcQkCFvNt8NMeobg5oxu0NvtYQy1bpXV-jY0aw&usqp=CAU",
+                      "clientChildBirthDate": "01-01-1990",
+                      "clientEmailId": "smithdoe@example.com"
+                  }
+              ],
+              "createdAt": "2024-07-05 10:07:04 GMT+5:30",
+              "createdBy": "Alice Atkins",
+              "franchiseeId": "eRA#14523",
+              "fromDate": "2024-45-11 10:45:06 GMT+5:30",
+              "locationId": "GOY#9000000123456",
+              "maximumCapacity": 5,
+              "maximumWaitngListCapacity": 0,
+              "occurrence": {
+                  "freq": "noRepeat",
+                  "dtstart": "10-24-2023, 10:30AM",
+                  "until": "10-24-2023, 11:00AM"
+              },
+              "repeat": "daily",
+              "room": {
+                  "name": "LocationRoom2",
+                  "roomLimit": 7
+              },
+              "scheduleType": "appointment",
+              "serviceId": "#SREHS#",
+              "serviceName": "Advanced Agility",
+              "trainerAvailability": [
+                  {
+                      "day": "Tuesday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  },
+                  {
+                      "day": "Wednesday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  }
+              ],
+              "trainerId": "#USrR#2WqqNePMcnoejAPz7JLaOsA50Oo",
+              "trainerName": "Calista Foster",
+              "trainerSlots": 15,
+              "updatedAt": "2023-06-25 08:06:21 GMT+5:30"
+          },
+          {
+              "partitionKey": "RON#9000000123456",
+              "sortKey": "#APPO#2WbmJK7QOhQ3E6B2DiWP9Rg4add",
+              "appointmentId": "#APPO#2WbmJK6BUhQ3B6B8CiWP9Rg4adp",
+              "categoryId": "#SRIVS-APPT#SRILS-HAT#2",
+              "categoryName": "Orientation",
+              "clientDetails": [
+                  {
+                      "payLater": true,
+                      "clientParentId": "#CLIENT#789",
+                      "clientChildId": "#PET#2RkE03xU2SSYJBy1FKlHh4GSF89",
+                      "creditAvailable": 0,
+                      "clientParentName": "Michel",
+                      "clientChildName": "Nick",
+                      "clientChildProfile": "https://encrypted-tbn0.gstatic.com/images?q=tbn: ANd9GcQkCFvNt8NMeobg5oxu0NvtYQy1bpXV-jY0aw&usqp=CAU",
+                      "clientChildBirthDate": "01-01-1990",
+                      "clientEmailId": "michelWdoe@example.com"
+                  }
+              ],
+              "createdAt": "2023-07-01 09:07:45 GMT+5:30",
+              "createdBy": "Stewart Fuentes",
+              "franchiseeId": "URA#14523",
+              "fromDate": "2023-37-01 07:37:06 GMT+5:30",
+              "locationId": "OOW#9000000123456",
+              "maximumCapacity": 9,
+              "maximumWaitngListCapacity": 4,
+              "occurrence": {
+                  "freq": "noRepeat",
+                  "dtstart": "10-12-2023, 10:30AM",
+                  "until": "10-12-2023, 11:00AM"
+              },
+              "repeat": "daily",
+              "room": {
+                  "name": "LocationRoom2",
+                  "roomLimit": 7
+              },
+              "scheduleType": "appointment",
+              "serviceId": "#SRISS#",
+              "serviceName": "Obedience",
+              "trainerAvailability": [
+                  {
+                      "day": "Wednesday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  },
+                  {
+                      "day": "Friday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  }
+              ],
+              "trainerId": "#USqR#2WqmNePMcnoejAPz3JiiIsA50Oo",
+              "trainerName": "Celeste Owens",
+              "trainerSlots": 17,
+              "updatedAt": "2023-45-25 09:45:26 GMT+5:30"
+          },
+          {
+              "partitionKey": "GOT#9000000123456",
+              "sortKey": "#APPO#2WbmJK2FEhQ3l6B57iWP9Rg4adt",
+              "appointmentId": "#APPO#2WbmJK7UOhQ3p6B5CiWP9Rg4adu",
+              "categoryId": "#SRULS-APPT#SRUGS-XAT#2",
+              "categoryName": "Private Gym",
+              "clientDetails": [
+                  {
+                      "payLater": true,
+                      "clientParentId": "#CLIENT#789",
+                      "clientChildId": "#PET#2RkE03xU2SSYJBy1FKlHh4GSF89",
+                      "creditAvailable": 0,
+                      "clientParentName": "Michel",
+                      "clientChildName": "Nick",
+                      "clientChildProfile": "https://encrypted-tbn0.gstatic.com/images?q=tbn: ANd9GcQkCFvNt8NMeobg5oxu0NvtYQy1bpXV-jY0aw&usqp=CAU",
+                      "clientChildBirthDate": "01-01-1990",
+                      "clientEmailId": "michelWdoe@example.com"
+                  }
+              ],
+              "createdAt": "2023-03-31 11:03:16 GMT+5:30",
+              "createdBy": "Raphael Wolfe",
+              "franchiseeId": "IRA#14523",
+              "fromDate": "2024-52-15 01:52:42 GMT+5:30",
+              "locationId": "SOX#9000000123456",
+              "maximumCapacity": 2,
+              "maximumWaitngListCapacity": 10,
+              "occurrence": {
+                  "freq": "noRepeat",
+                  "dtstart": "10-12-2023, 10:30AM",
+                  "until": "10-12-2023, 11:00AM"
+              },
+              "repeat": "daily",
+              "room": {
+                  "name": "LocationRoom3",
+                  "roomLimit": 3
+              },
+              "scheduleType": "appointment",
+              "serviceId": "#SRUHS#",
+              "serviceName": "Agility",
+              "trainerAvailability": [
+                  {
+                      "day": "Wednesday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  },
+                  {
+                      "day": "Friday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  }
+              ],
+              "trainerId": "#UScR#2WqgNePMgnoejAPzAJkIEsA50Oo",
+              "trainerName": "Cody Banks",
+              "trainerSlots": 17,
+              "updatedAt": "2023-48-25 06:48:31 GMT+5:30"
+          },
+          {
+              "partitionKey": "UOJ#9000000123456",
+              "sortKey": "#APPO#2WbmJK1OOhQ3b6B24iWP9Rg4adm",
+              "appointmentId": "#APPO#2WbmJK6QIhQ3W6B1CiWP9Rg4ads",
+              "categoryId": "#SRIYS-APPT#SREGS-XAT#2",
+              "categoryName": "Playgroup",
+              "clientDetails": [
+                  {
+                      "payLater": true,
+                      "clientParentId": "#CLIENT#456",
+                      "clientChildId": "#PET#2RkE03xU2SSYJBy1FKlHh4GSF54",
+                      "creditAvailable": 0,
+                      "clientParentName": "Sharmin",
+                      "clientChildName": "Jack03",
+                      "clientChildProfile": "https://encrypted-tbn0.gstatic.com/images?q=tbn: ANd9GcQkCFvNt8NMeobg5oxu0NvtYQy1bpXV-jY0aw&usqp=CAU",
+                      "clientChildBirthDate": "01-01-1990",
+                      "clientEmailId": "sharminWdoe@example.com"
+                  }
+              ],
+              "createdAt": "2022-47-30 08:47:58 GMT+5:30",
+              "createdBy": "Armand Gould",
+              "franchiseeId": "ARA#14523",
+              "fromDate": "2023-27-12 08:27:05 GMT+5:30",
+              "locationId": "KOR#9000000123456",
+              "maximumCapacity": 9,
+              "maximumWaitngListCapacity": 3,
+              "occurrence": {
+                  "freq": "noRepeat",
+                  "dtstart": "09-26-2023, 10:30AM",
+                  "until": "09-26-2023, 11:00AM"
+              },
+              "repeat": "daily",
+              "room": {
+                  "name": "LocationRoom4",
+                  "roomLimit": 4
+              },
+              "scheduleType": "appointment",
+              "serviceId": "#SROCS#",
+              "serviceName": "Advanced Obediance",
+              "trainerAvailability": [
+                  {
+                      "day": "Monday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  },
+                  {
+                      "day": "tuesday",
+                      "startTime": "04:00PM",
+                      "endTime": "04:30PM"
+                  }
+              ],
+              "trainerId": "#USHR#2WqtNePMDnoejAPzEJZuOsA50Oo",
+              "trainerName": "Richard Alvarado",
+              "trainerSlots": 11,
+              "updatedAt": "2023-44-25 02:44:37 GMT+5:30"
+          }
+      ]
